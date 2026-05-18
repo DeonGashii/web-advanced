@@ -1,0 +1,14 @@
+h2{
+    color:chartreuse;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color: firebrick;
+}
+
+button{
+padding-top :20px;
+padding-bottom:20px;
+padding-left:20px;
+padding-right:20px;
+margin: 300px;
+
+}
