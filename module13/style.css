@@ -1,0 +1,33 @@
+ul{
+    list-style-type: none;
+    padding: 0;
+    border: 2px solid grey;
+}
+
+ul li{
+    padding: 8px 16px;
+    border: 1px solid grey;
+}
+
+ol{
+    list-style-type: none;
+    padding: 0;
+    border: 2px solid grey;
+}
+
+ol li{
+    padding: 8px 16px;
+    border: 1px solid grey;
+}
+
+th{
+    list-style-type: none;
+    padding: 0;
+    border: 2px solid grey;
+}
+
+td{
+    list-style-type: none;
+    padding: 0;
+    border: 2px solid grey;
+}
