@@ -1,0 +1,64 @@
+.navbar{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    background-color: #8B0D11;  
+  
+    display: flex;
+    
+}
+
+.navbar li{
+    
+    display: flex;
+    float: left;
+    font-size: 16px;
+    color: #F4F5F7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+.Spain{
+    width: 50%;
+    display: flex;
+    text-align: center;
+    border: 5px;
+    border-color: #8B0D11;
+    border-style: solid;
+}
+
+.Spain p{
+    color: #8B0D11;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Selección{
+
+    display: flex;
+    float: left;
+    width: 50%;
+    display: flex;
+    text-align: center;
+    border: 5px;
+    border-color: #8B0D11;
+    border-style: solid;
+}
+
+.Selección p{
+    
+    color: #8B0D11;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
